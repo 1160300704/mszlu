@@ -1,0 +1,11 @@
+{
+  "groups": [],
+  "properties": [
+    {
+      "name": "mybatis.configuration.log-impl",
+      "type": "java.lang.String",
+      "description": "Description for mybatis.configuration.log-impl."
+    }
+  ],
+  "hints": []
+}
